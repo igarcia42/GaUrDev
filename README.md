@@ -1,6 +1,5 @@
 <!--Banner-->
-![Banner Image](./banner.gif)
-
+<img align="center" width=50% alt="banner" src="./banner.gif">
 <!--Night Owl image-->
 
 <!--Header Name-->
